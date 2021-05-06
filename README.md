@@ -1,6 +1,6 @@
 # Autômato Finito Não Determinístico
 
-Autores: Gabriel Fillipe, Eliton Mizael e Lucas Fernandes da Costa
+Autores: Gabriel Fillipe, Eliton Misael e Lucas Fernandes da Costa
 
 # O que é ?
   Autômato finito não-determinístico (AFND) é uma máquina de estados finita onde 
